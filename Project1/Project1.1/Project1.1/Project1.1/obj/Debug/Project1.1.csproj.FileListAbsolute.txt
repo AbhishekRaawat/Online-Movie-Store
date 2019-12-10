@@ -1,0 +1,14 @@
+G:\sEM2\dotnet\Project1.1\Project1.1\Project1.1\obj\Debug\Project1.1.csprojAssemblyReference.cache
+G:\sEM2\dotnet\Project1.1\Project1.1\Project1.1\obj\Debug\Project1.1.csproj.CoreCompileInputs.cache
+G:\sEM2\dotnet\Project1.1\Project1.1\Project1.1\bin\Debug\Project1.1.exe.config
+G:\sEM2\dotnet\Project1.1\Project1.1\Project1.1\bin\Debug\Project1.1.exe
+G:\sEM2\dotnet\Project1.1\Project1.1\Project1.1\bin\Debug\Project1.1.pdb
+G:\sEM2\dotnet\Project1.1\Project1.1\Project1.1\obj\Debug\Project1.1.exe
+G:\sEM2\dotnet\Project1.1\Project1.1\Project1.1\obj\Debug\Project1.1.pdb
+D:\sEM2\dotnet\Project1.1\Project1.1\Project1.1\bin\Debug\Project1.1.exe.config
+D:\sEM2\dotnet\Project1.1\Project1.1\Project1.1\bin\Debug\Project1.1.exe
+D:\sEM2\dotnet\Project1.1\Project1.1\Project1.1\bin\Debug\Project1.1.pdb
+D:\sEM2\dotnet\Project1.1\Project1.1\Project1.1\obj\Debug\Project1.1.csprojAssemblyReference.cache
+D:\sEM2\dotnet\Project1.1\Project1.1\Project1.1\obj\Debug\Project1.1.csproj.CoreCompileInputs.cache
+D:\sEM2\dotnet\Project1.1\Project1.1\Project1.1\obj\Debug\Project1.1.exe
+D:\sEM2\dotnet\Project1.1\Project1.1\Project1.1\obj\Debug\Project1.1.pdb
